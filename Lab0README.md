@@ -1,0 +1,1 @@
+This semester I am hoping to learn to think more as a programmer, going into depth with event driven programs. At my job we have a POs system and since I took Event Driven last semester I have been able to see the connections between what we learn in class and real world applications.
